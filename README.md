@@ -13,10 +13,10 @@
 
 
 ### How To use it :
-# you have to type:
+# You have to type:
     
-    use quranmp3/downloader;
-1- you have to instance the class like this 
+    use mp3quran/downloader;
+1- You have to instance the class like this 
     
     $downloader = new downloader();
     
